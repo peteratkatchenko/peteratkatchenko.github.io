@@ -2,6 +2,15 @@
 ## Economics (MRes) 
 ### Sciences Po Paris
 
+## Ongoing Projects
+Click the links below to access my ongoing projects:
+
++ Masters Thesis:
+
++ "Growing Like China" paper replication:
+
++ Development economics paper replication:
+
 ## Contact Information
 
 ***
