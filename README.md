@@ -1,6 +1,7 @@
 # Peter A Tkatchenko 
-## Economics (MRes) 
-### Sciences Po Paris
+## Economics (MRes) | Sciences Po Paris
+
+***
 
 ## Ongoing Projects
 Click the links below to access my ongoing projects:
@@ -52,10 +53,17 @@ Bachelor of Arts in Philosophy, Politics and Economics (PPE – Economics Concen
 ## Languages
 
 ***
-
+Spoken:
 + English (Native Fluent)
 + Russian (Native Fluent)
 + French (B2)
+
+Programming:
++ Stata
++ R
++ MATLAB
++ R
++ Markdown
 
 ## Research Experience 
 
