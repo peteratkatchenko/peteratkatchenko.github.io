@@ -20,9 +20,11 @@ Address: 49 rue Dutot, Paris, France 75015
 
 Phone: +33 06 07 73 65 08
 
-Email: peter.tkatchenko@sciencespo.fr
+Email: 
++ peter.tkatchenko@sciencespo.fr
++ peteratkatchenko@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/peter-tkatchenko-376b8b15a/
+LinkedIn: [Here](https://www.linkedin.com/in/peter-tkatchenko-376b8b15a/)
 
 ## Education 
 
