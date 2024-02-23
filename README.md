@@ -10,7 +10,7 @@ Click the links below to access my ongoing projects:
 
 + "Growing Like China" paper replication: [Here](https://peteratkatchenko.github.io/-Growing-Like-China-Replication/)
 
-+ Development economics paper replication: [Here]()
++ Development economics paper replication: [Here](https://peteratkatchenko.github.io/Development-Economics-Replication/)
 
 ## Contact Information
 
