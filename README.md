@@ -1,4 +1,6 @@
-# Peter A Tkatchenko  Economics (MRes)  Sciences Po Paris
+# Peter A Tkatchenko 
+## Economics (MRes) 
+### Sciences Po Paris
 
 ## Contact Information
 
