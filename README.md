@@ -8,7 +8,7 @@ Click the links below to access my ongoing projects:
 
 + Masters Thesis: [Here](https://peteratkatchenko.github.io/SciencesPo-Masters-Thesis/)
 
-+ "Growing Like China" paper replication: [Here]()
++ "Growing Like China" paper replication: [Here](https://peteratkatchenko.github.io/-Growing-Like-China-Replication/)
 
 + Development economics paper replication: [Here]()
 
