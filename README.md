@@ -6,11 +6,11 @@
 ## Ongoing Projects
 Click the links below to access my ongoing projects:
 
-+ Masters Thesis:
++ Masters Thesis: [Here](https://peteratkatchenko.github.io/SciencesPo-Masters-Thesis/)
 
-+ "Growing Like China" paper replication:
++ "Growing Like China" paper replication: [Here]()
 
-+ Development economics paper replication:
++ Development economics paper replication: [Here]()
 
 ## Contact Information
 
