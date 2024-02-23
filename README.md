@@ -64,7 +64,7 @@ Programming:
 + Stata
 + R
 + MATLAB
-+ R
++ Julia
 + Markdown
 
 ## Research Experience 
