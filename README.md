@@ -19,8 +19,6 @@ Click the links below to access my ongoing projects:
 
 ***
 
-Phone: +33 06 07 73 65 08
-
 Email: 
 + peter.tkatchenko@sciencespo.fr
 + peteratkatchenko@gmail.com
