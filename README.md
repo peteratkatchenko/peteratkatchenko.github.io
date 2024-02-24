@@ -21,7 +21,6 @@ Click the links below to access my ongoing projects:
 
 Email: 
 + peter.tkatchenko@sciencespo.fr
-+ peteratkatchenko@gmail.com
 
 LinkedIn: [Here](https://www.linkedin.com/in/peter-tkatchenko-376b8b15a/)
 
