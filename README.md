@@ -19,8 +19,6 @@ Click the links below to access my ongoing projects:
 
 ***
 
-Address: 49 rue Dutot, Paris, France 75015
-
 Phone: +33 06 07 73 65 08
 
 Email: 
