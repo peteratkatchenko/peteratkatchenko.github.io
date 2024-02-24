@@ -1,5 +1,5 @@
 # Peter A Tkatchenko 
-## Economics (MRes) | Sciences Po Paris
+## Master of Research (Economics) | Sciences Po Paris
 
 ***
 
@@ -33,7 +33,6 @@ LinkedIn: [Here](https://www.linkedin.com/in/peter-tkatchenko-376b8b15a/)
 
 **Sciences Po Paris – Paris, France
 Master of Research in Economics**
-+ Average Mark: 14.65/20
 + Finalist Dissertation: “Innovating Like China: Firm Heterogeneities and Endogenous Technology during Long-Run Growth”
     + Dissertation Advisor: Prof. Nicolas Coeurdacier
     + Relevant Coursework: Macroeconomics III; Microeconomics III; Econometrics I/II/III; Computational Economics; Development Economics; Urban and Regional Economics; Economic History; Demography and Politics of Global Population
